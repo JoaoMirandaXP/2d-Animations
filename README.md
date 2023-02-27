@@ -1,2 +1,2 @@
 # 2d-Animations
-Algumas ideias em animação 2d
+Algumas ideias em animação 2d - After Effects
